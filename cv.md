@@ -11,10 +11,14 @@ I want to become a FE/JS developer because it can open the door to the world of 
 * JS
 * Chrome Dev Tools
 * Git
-* Next skill is developing...
 ## Code Examples
 ```javascript
-function multiply(a, b){
+function multiply(a, b) {
   return a * b;
 }
 ```
+## Education
+* **Francisk Skorina Gomel State University**
+  * Faculty of Mathematics and Technologies of Programming
+## Language
+My english level is **A2** for now but it is *growing*.
