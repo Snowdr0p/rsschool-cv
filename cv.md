@@ -20,5 +20,5 @@ function multiply(a, b) {
 ## Education
 * **Francisk Skorina Gomel State University**
   * Faculty of Mathematics and Technologies of Programming
-## Language
+## Languages
 My english level is **A2** for now but it is *growing*.
