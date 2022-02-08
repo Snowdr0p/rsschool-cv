@@ -12,3 +12,8 @@ pre {
 h2 {
   text-decoration: underline;
 }
+
+.round-photo {
+  width: 1.5em;
+  border-radius: 0.75em;
+}
